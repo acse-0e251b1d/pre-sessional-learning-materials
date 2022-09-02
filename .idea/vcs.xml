@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MOOC-numerical-method" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MOOC-numerical-method/numerical-mooc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pre-math" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pre-sessional-learning-materials" vcs="Git" />
+  </component>
+</project>
